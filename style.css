@@ -1,0 +1,100 @@
+#first {
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://c4.wallpaperflare.com/wallpaper/297/288/1009/5bd320d590bcf-wallpaper-preview.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-left: 8%;
+  padding-right: 8%;
+  color: #fff;
+}
+
+.c2 {
+  padding:  16.5% 7%;
+}
+
+h1 {
+  font-family: Heebo, sans-serif;
+  font-weight: 800;
+  font-size: 2rem;
+  line-height: 1.25;
+  margin-top: 2.5rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: Heebo, sans-serif;
+  font-weight: 800;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  margin-top: 1.5rem;
+}
+
+.button1 {
+  margin-top: 5%;
+}
+
+#second {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+#slideshow {
+  background-image: url(https://speckyboy.com/wp-content/uploads/2020/11/high-resolution-4k-desktop-wallpaper-47.jpg);
+  background-size: cover;
+}
+
+.testimonials {
+  text-align: center;
+  color: #ffff;
+  width: 70%;
+}
+
+h3 {
+  color: #000;
+  margin-top: 5%;
+  font-size: 1.5rem;
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+.icon2 {
+  color: #ef8172;
+}
+
+.icon2:hover {
+  color: #ff4c68;
+}
+
+.p2 {
+  color: #8f8f8f;
+}
+
+#pricing {
+  text-align: center;
+  padding: 7.5%;
+}
+
+.card {
+  width: 18rem;
+}
+
+#footer {
+
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.if {
+  color: black;
+  padding: 1% .5%;
+}
+
+#cta {
+  margin-top: 2%;
+  text-align: center;
+  background-image: url(https://speckyboy.com/wp-content/uploads/2020/11/high-resolution-4k-desktop-wallpaper-30.jpg);
+  background-size: cover;
+  padding: 2.5%;
+}
